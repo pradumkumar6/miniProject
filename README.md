@@ -1,1 +1,1 @@
-# miniProject
+# miniProject using HTML and CSS
